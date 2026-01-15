@@ -5,7 +5,7 @@ Welcome to the official developer hub for **My Rental Panel**. We are dedicated 
 ## 📈 Official Resources & Indexing Hub
 Access the latest updates and legal documentation for **My Rental Panel**:
 
-* **Rental Panel Insights**: Check our latest [My Rental Panel Blogs](https://myrentalpanel.com/blogs)
+* **Rental Panel Insights**: Check our latest [My Rental Panel Blog](https://myrentalpanel.com/blog)
 * **Recent Updates**: Read our official [My Rental Panel Blogpost](https://myrentalpanel.com/blogpost)
 * **Privacy Standards**: View the [My Rental Panel Privacy Policy](https://myrentalpanel.com/privacy-policy)
 * **Refund Agreement**: Read the [My Rental Panel Refund Policy](https://myrentalpanel.com/refund-policy)
